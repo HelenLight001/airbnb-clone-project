@@ -27,13 +27,63 @@ Primary Pages
 
 ## UI/UX Design Planning
 
-| Page | Description
+Page | Description
 
 | **Property Listing View** | Grid display of available properties with filters |
 | **Listing Detailed View** | Complete property details with images and booking form |
 | **Simple Checkout View** | Streamlined payment and booking confirmation |
 
-UI Components
+Figma Design Specifications
+Color Styles:
+
+Primary: #FF5A5F
+Secondary: #008489
+Background: #FFFFFF
+Text: #222222
+Secondary Text: #717171
+Typography:
+
+Primary Font: Circular, Medium (500), 16px
+Headings: Circular, Bold (700), 24px-32px
+Secondary Text: Circular, Book (400), 14px
+
+### Importance of identifying design properties of a mock up design
+
+1. Clarity of Vision and Intent.
+
+- Design properties (like color, typography, spacing, layout, and visual hierarchy) help communicate the designer’s vision.
+
+2. Consistency in Implementation.
+
+- Identifying design properties early allows for the creation of consistent UI elements (buttons, headers, forms, etc.).
+
+- It leads to the development of design systems or style guides, which reduce errors and visual discrepancies.
+
+3. Improved Developer Handoff.
+
+- Developers need exact design specs: colors (HEX/RGB codes), font sizes, padding, margins, component behaviors, etc.
+
+- Properly identified properties make it easier to translate designs into code accurately and efficiently.
+
+4. Facilitates Feedback and Iteration.
+
+- Clear design properties make it easier to evaluate a mock-up and provide targeted feedback.
+
+- Helps teams iterate quickly, as they can pinpoint which aspect (e.g., typography or layout) needs adjustment.
+
+5. Supports Responsive and Accessible Design.
+
+- Understanding layout and component behaviors allows for better planning for responsive design (mobile/tablet/desktop).
+
+- Helps in addressing accessibility needs — like contrast ratios, font sizes, and readable typefaces — early in the design process.
+
+6. Foundation for Prototyping and Testing.
+
+- Identified design properties make interactive prototypes more realistic and testable.
+
+- Usability testing becomes more accurate when designs reflect the final look and feel.
+
+## UI Components
 
 ### Navbar
 
