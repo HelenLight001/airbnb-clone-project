@@ -83,7 +83,7 @@ Secondary Text: Circular, Book (400), 14px
 
 - Usability testing becomes more accurate when designs reflect the final look and feel.
 
-## UI Components
+## UI Component Patterns
 
 ### Navbar
 
